@@ -1,0 +1,6 @@
+To run this project-----
+
+    step 1 go to finaltest/backend
+    step 2 type "npm start" in cmd prompt
+    step 3 go to finaltest/frontend
+    step 4 type "npm start" in cmd prompt
